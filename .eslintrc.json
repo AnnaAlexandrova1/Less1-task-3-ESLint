@@ -13,6 +13,10 @@
         "linebreak-style": [
             "error", "windows"
         ],
-        "object-curly-newline": ["off"]
+        "object-curly-newline": ["off"],
+        "no-unused-vars": ["warn"],
+
+        "no-multiple-empty-lines": ["warn"]
+        
    }
 }
